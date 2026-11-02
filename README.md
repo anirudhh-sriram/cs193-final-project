@@ -21,7 +21,7 @@ The program loads CSV files (player stats, Ballon d'Or results, and team-level t
 
 ## Setup
 
-> TODO: do after project is done.
+Do this after project is done.
 
 ```bash
 git clone https://github.com/anirudhh-sriram/cs193-final-project
@@ -29,7 +29,7 @@ cd cs193-final-project
 ```
 ## Usage
 
-> TODO: replace with the real command after project is done.
+Replace with the real command after project is done.
 
 ## Roadmap
 
