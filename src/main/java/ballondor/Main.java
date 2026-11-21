@@ -1,0 +1,7 @@
+package ballondor;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Ballon d'Or Predictor Model");
+    }
+}
