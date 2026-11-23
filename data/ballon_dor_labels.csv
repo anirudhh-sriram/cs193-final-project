@@ -1,0 +1,241 @@
+award_year,rank,player,club,points
+2018,1,Luka Modrić,Real Madrid,753
+2018,2,Cristiano Ronaldo,Real Madrid,476
+2018,3,Antoine Griezmann,Atlético Madrid,414
+2018,4,Kylian Mbappé,Paris Saint-Germain,347
+2018,5,Lionel Messi,Barcelona,280
+2018,6,Mohamed Salah,Liverpool,188
+2018,7,Raphaël Varane,Real Madrid,121
+2018,8,Eden Hazard,Chelsea,119
+2018,9,Kevin De Bruyne,Manchester City,29
+2018,10,Harry Kane,Tottenham Hotspur,25
+2018,11,N'Golo Kanté,Chelsea,24
+2018,12,Neymar,Paris Saint-Germain,19
+2018,13,Luis Suárez,Barcelona,17
+2018,14,Thibaut Courtois,Chelsea,12
+2018,15,Paul Pogba,Manchester United,9
+2018,16,Sergio Agüero,Manchester City,7
+2018,17,Gareth Bale,Real Madrid,6
+2018,17,Karim Benzema,Real Madrid,6
+2018,19,Roberto Firmino,Liverpool,4
+2018,19,Ivan Rakitić,Barcelona,4
+2018,19,Sergio Ramos,Real Madrid,4
+2018,22,Edinson Cavani,Paris Saint-Germain,3
+2018,22,Sadio Mané,Liverpool,3
+2018,22,Marcelo,Real Madrid,3
+2018,25,Alisson,Roma,2
+2018,25,Mario Mandžukić,Juventus,2
+2018,25,Jan Oblak,Atlético Madrid,2
+2018,28,Diego Godín,Atlético Madrid,1
+2018,29,Isco,Real Madrid,0
+2018,29,Hugo Lloris,Tottenham Hotspur,0
+2019,1,Lionel Messi,Barcelona,686
+2019,2,Virgil van Dijk,Liverpool,679
+2019,3,Cristiano Ronaldo,Juventus,476
+2019,4,Sadio Mané,Liverpool,347
+2019,5,Mohamed Salah,Liverpool,178
+2019,6,Kylian Mbappé,Paris Saint-Germain,89
+2019,7,Alisson,Liverpool,67
+2019,8,Robert Lewandowski,Bayern Munich,44
+2019,9,Bernardo Silva,Manchester City,41
+2019,10,Riyad Mahrez,Manchester City,33
+2019,11,Frenkie de Jong,Barcelona,31
+2019,12,Raheem Sterling,Manchester City,30
+2019,13,Eden Hazard,Real Madrid,25
+2019,14,Kevin De Bruyne,Manchester City,14
+2019,15,Matthijs de Ligt,Juventus,13
+2019,16,Sergio Agüero,Manchester City,12
+2019,17,Roberto Firmino,Liverpool,11
+2019,18,Antoine Griezmann,Barcelona,9
+2019,19,Trent Alexander-Arnold,Liverpool,8
+2019,20,Pierre-Emerick Aubameyang,Arsenal,5
+2019,20,Dušan Tadić,Ajax,5
+2019,22,Son Heung-min,Tottenham Hotspur,4
+2019,23,Hugo Lloris,Tottenham Hotspur,3
+2019,24,Kalidou Koulibaly,Napoli,2
+2019,24,Marc-André ter Stegen,Barcelona,2
+2019,26,Karim Benzema,Real Madrid,1
+2019,26,Georginio Wijnaldum,Liverpool,1
+2019,28,João Félix,Atlético Madrid,0
+2019,28,Marquinhos,Paris Saint-Germain,0
+2019,28,Donny van de Beek,Ajax,0
+2021,1,Lionel Messi,Paris Saint-Germain,613
+2021,2,Robert Lewandowski,Bayern Munich,580
+2021,3,Jorginho,Chelsea,460
+2021,4,Karim Benzema,Real Madrid,239
+2021,5,N'Golo Kanté,Chelsea,186
+2021,6,Cristiano Ronaldo,Manchester United,178
+2021,7,Mohamed Salah,Liverpool,121
+2021,8,Kevin De Bruyne,Manchester City,73
+2021,9,Kylian Mbappé,Paris Saint-Germain,58
+2021,10,Gianluigi Donnarumma,Paris Saint-Germain,36
+2021,11,Erling Haaland,Borussia Dortmund,33
+2021,12,Romelu Lukaku,Chelsea,26
+2021,12,Giorgio Chiellini,Juventus,26
+2021,14,Leonardo Bonucci,Juventus,18
+2021,15,Raheem Sterling,Manchester City,10
+2021,16,Neymar,Paris Saint-Germain,9
+2021,17,Luis Suárez,Atlético Madrid,8
+2021,17,Simon Kjær,Milan,8
+2021,19,Mason Mount,Chelsea,7
+2021,19,Riyad Mahrez,Manchester City,7
+2021,21,Bruno Fernandes,Manchester United,6
+2021,21,Lautaro Martínez,Inter Milan,6
+2021,23,Harry Kane,Tottenham Hotspur,4
+2021,24,Pedri,Barcelona,3
+2021,25,Phil Foden,Manchester City,2
+2021,26,Gerard Moreno,Villarreal,1
+2021,26,Nicolò Barella,Inter Milan,1
+2021,26,Rúben Dias,Manchester City,1
+2021,29,Luka Modrić,Real Madrid,0
+2021,29,Cesar Azpilicueta,Chelsea,0
+2022,1,Karim Benzema,Real Madrid,549
+2022,2,Sadio Mané,Liverpool,193
+2022,3,Kevin De Bruyne,Manchester City,175
+2022,4,Robert Lewandowski,Bayern Munich,170
+2022,5,Mohamed Salah,Liverpool,116
+2022,6,Kylian Mbappé,Paris Saint-Germain,85
+2022,7,Thibaut Courtois,Real Madrid,82
+2022,8,Vinícius Júnior,Real Madrid,61
+2022,9,Luka Modrić,Real Madrid,20
+2022,10,Erling Haaland,Borussia Dortmund,18
+2022,11,Son Heung-min,Tottenham Hotspur,5
+2022,12,Riyad Mahrez,Manchester City,4
+2022,13,Sébastien Haller,Ajax,2
+2022,14,Fabinho,Liverpool,2
+2022,14,Rafael Leão,AC Milan,2
+2022,16,Virgil van Dijk,Liverpool,1
+2022,17,Casemiro,Real Madrid,1
+2022,17,Luis Díaz,Liverpool,1
+2022,17,Dušan Vlahović,Juventus,1
+2022,20,Cristiano Ronaldo,Manchester United,0
+2022,20,Harry Kane,Tottenham Hotspur,0
+2022,20,Trent Alexander-Arnold,Liverpool,0
+2022,20,Phil Foden,Manchester City,0
+2022,20,Bernardo Silva,Manchester City,0
+2022,20,João Cancelo,Manchester City,0
+2022,20,Joshua Kimmich,Bayern Munich,0
+2022,20,Mike Maignan,AC Milan,0
+2022,20,Christopher Nkunku,RB Leipzig,0
+2022,20,Darwin Núñez,Benfica,0
+2022,20,Antonio Rüdiger,Chelsea,0
+2023,1,Lionel Messi,Inter Miami,462
+2023,2,Erling Haaland,Manchester City,357
+2023,3,Kylian Mbappé,Paris Saint-Germain,270
+2023,4,Kevin De Bruyne,Manchester City,100
+2023,5,Rodri,Manchester City,57
+2023,6,Vinícius Júnior,Real Madrid,49
+2023,7,Julián Álvarez,Manchester City,28
+2023,8,Victor Osimhen,Napoli,24
+2023,9,Bernardo Silva,Manchester City,20
+2023,10,Luka Modrić,Real Madrid,19
+2023,11,Mohamed Salah,Liverpool,13
+2023,12,Robert Lewandowski,Barcelona,12
+2023,13,Yassine Bounou,Sevilla,10
+2023,14,İlkay Gündoğan,Manchester City,8
+2023,15,Emiliano Martínez,Aston Villa,7
+2023,16,Karim Benzema,Real Madrid,6
+2023,17,Khvicha Kvaratskhelia,Napoli,6
+2023,18,Jude Bellingham,Borussia Dortmund,5
+2023,19,Harry Kane,Tottenham Hotspur,4
+2023,20,Lautaro Martínez,Inter Milan,4
+2023,21,Antoine Griezmann,Atlético Madrid,4
+2023,22,Kim Min-jae,Napoli,3
+2023,23,André Onana,Inter Milan,2
+2023,24,Bukayo Saka,Arsenal,1
+2023,25,Joško Gvardiol,RB Leipzig,1
+2023,26,Jamal Musiala,Bayern Munich,0
+2023,27,Nicolò Barella,Inter Milan,0
+2023,28,Randal Kolo Muani,Eintracht Frankfurt,0
+2023,28,Martin Ødegaard,Arsenal,0
+2023,30,Rúben Dias,Manchester City,0
+2024,1,Rodri,Manchester City,1170
+2024,2,Vinícius Júnior,Real Madrid,1129
+2024,3,Jude Bellingham,Real Madrid,917
+2024,4,Dani Carvajal,Real Madrid,550
+2024,5,Erling Haaland,Manchester City,432
+2024,6,Kylian Mbappé,Paris Saint-Germain,420
+2024,7,Lautaro Martínez,Inter Milan,402
+2024,8,Lamine Yamal,Barcelona,383
+2024,9,Toni Kroos,Real Madrid,291
+2024,10,Harry Kane,Bayern Munich,201
+2024,11,Phil Foden,Manchester City,157
+2024,12,Florian Wirtz,Bayer Leverkusen,101
+2024,13,Dani Olmo,RB Leipzig,86
+2024,14,Ademola Lookman,Atalanta,82
+2024,15,Nico Williams,Athletic Bilbao,73
+2024,16,Granit Xhaka,Bayer Leverkusen,60
+2024,17,Federico Valverde,Real Madrid,58
+2024,18,Emiliano Martínez,Aston Villa,28
+2024,19,Martin Ødegaard,Arsenal,16
+2024,20,Hakan Çalhanoğlu,Inter Milan,15
+2024,21,Bukayo Saka,Arsenal,14
+2024,22,Antonio Rüdiger,Real Madrid,13
+2024,23,Rúben Dias,Manchester City,8
+2024,24,William Saliba,Arsenal,8
+2024,25,Cole Palmer,Chelsea,7
+2024,26,Declan Rice,Arsenal,5
+2024,27,Vitinha,Paris Saint-Germain,5
+2024,28,Álex Grimaldo,Bayer Leverkusen,2
+2024,29,Artem Dovbyk,Girona,0
+2024,29,Mats Hummels,Borussia Dortmund,0
+2025,1,Ousmane Dembélé,Paris Saint-Germain,1380
+2025,2,Lamine Yamal,Barcelona,1059
+2025,3,Vitinha,Paris Saint-Germain,703
+2025,4,Mohamed Salah,Liverpool,657
+2025,5,Raphinha,Barcelona,620
+2025,6,Achraf Hakimi,Paris Saint-Germain,484
+2025,7,Kylian Mbappé,Real Madrid,378
+2025,8,Cole Palmer,Chelsea,211
+2025,9,Gianluigi Donnarumma,Paris Saint-Germain,172
+2025,10,Nuno Mendes,Paris Saint-Germain,171
+2025,11,Pedri,Barcelona,124
+2025,12,Khvicha Kvaratskhelia,Napoli,123
+2025,13,Harry Kane,Bayern Munich,112
+2025,14,Désiré Doué,Paris Saint-Germain,74
+2025,15,Viktor Gyökeres,Sporting CP,56
+2025,16,Vinícius Júnior,Real Madrid,51
+2025,17,Robert Lewandowski,Barcelona,49
+2025,18,Scott McTominay,Manchester United,45
+2025,19,João Neves,Paris Saint-Germain,40
+2025,20,Lautaro Martínez,Inter Milan,37
+2025,21,Serhou Guirassy,Borussia Dortmund,25
+2025,22,Alexis Mac Allister,Liverpool,21
+2025,23,Jude Bellingham,Real Madrid,21
+2025,24,Fabián Ruiz,Paris Saint-Germain,20
+2025,25,Denzel Dumfries,Inter Milan,20
+2025,26,Erling Haaland,Manchester City,18
+2025,27,Declan Rice,Arsenal,13
+2025,28,Virgil van Dijk,Liverpool,7
+2025,29,Florian Wirtz,Bayer Leverkusen,5
+2025,30,Michael Olise,Bayern Munich,4
+2026,1,Harry Kane,Bayern Munich,1055
+2026,2,Kylian Mbappé,Real Madrid,1027
+2026,3,Lamine Yamal,Barcelona,881
+2026,4,Rodri,Manchester City,726
+2026,5,Lionel Messi,Inter Miami,612
+2026,6,Khvicha Kvaratskhelia,Paris Saint-Germain,541
+2026,7,Ousmane Dembélé,Paris Saint-Germain,418
+2026,8,Erling Haaland,Manchester City,378
+2026,9,Michael Olise,Bayern Munich,296
+2026,10,Fabián Ruiz,Paris Saint-Germain,201
+2026,11,Jude Bellingham,Real Madrid,107
+2026,12,Pau Cubarsí,Barcelona,101
+2026,13,Achraf Hakimi,Paris Saint-Germain,65
+2026,14,Vitinha,Paris Saint-Germain,59
+2026,15,Declan Rice,Arsenal,57
+2026,16,Ferran Torres,Barcelona,44
+2026,17,Vinícius Júnior,Real Madrid,26
+2026,18,Marc Cucurella,Chelsea,16
+2026,19,João Neves,Paris Saint-Germain,15
+2026,20,Willian Pacho,Paris Saint-Germain,12
+2026,21,Gabriel Magalhães,Arsenal,11
+2026,22,Lautaro Martínez,Inter Milan,11
+2026,23,Nuno Mendes,Paris Saint-Germain,8
+2026,24,Luis Díaz,Bayern Munich,8
+2026,25,Marquinhos,Paris Saint-Germain,7
+2026,26,Dayot Upamecano,Bayern Munich,5
+2026,27,Bruno Fernandes,Manchester United,5
+2026,28,Julián Quiñones,Al-Qadsiah,4
+2026,29,Sadio Mané,Al Nassr,2
+2026,29,William Saliba,Arsenal,2
